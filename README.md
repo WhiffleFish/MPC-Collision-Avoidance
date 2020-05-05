@@ -8,6 +8,6 @@ Beginning with simple reference tracking maneuver
 
 Transitioning to robust model able to operate in a wide range of initial conditions  
 <img src="https://github.com/WhiffleFish/MPC-Collision-Avoidance/blob/master/Images/Equations/J2.png" height="50">  
-<img src="https://github.com/WhiffleFish/MPC-Collision-Avoidance/blob/master/Images/Equations/IneqConst.png" height="30">
+<img src="https://github.com/WhiffleFish/MPC-Collision-Avoidance/blob/master/Images/Equations/IneqConst.png" height="25">  
 <img src="https://github.com/WhiffleFish/MPC-Collision-Avoidance/blob/master/Images/frictionPlots.png">
 <img src="https://github.com/WhiffleFish/MPC-Collision-Avoidance/blob/master/Images/SpeedPlotsReduced.png">

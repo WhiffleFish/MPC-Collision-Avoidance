@@ -3,7 +3,7 @@
 Using Model Predictive Control to initiate a lane-change maneuver to facilitate obstacle avoidance  
 
 Beginning with simple reference tracking maneuver
-![](Images/Equations/J1.png)
+![](Images/Equations/J1.png | height=50)
 ![](Images/LaneChange.png)
 
 Transitioning to robust model able to operate in a wide range of initial conditions

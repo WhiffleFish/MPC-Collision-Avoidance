@@ -90,7 +90,7 @@ classdef Controller
                 fill([x1, x2, x2, x1], [y1, y1, y2, y2], 'red')
             end
             plot(x,y,'LineWidth',2)
-            plot(xlim, [0,0], 'r--')
+            plot(xlim, [obj.yref,obj.yref], 'r--')
             xlabel("X (m)")
             ylabel("Y (m)")
             title("Position")

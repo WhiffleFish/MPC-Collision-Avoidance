@@ -39,7 +39,7 @@ u0 = 0;
 info = ctrl.move(x0,u0);
 ctrl.plot(info)
 ```
-<img src=images/SRCTrajectory.svg>
+<img src=Images/SRCTrajectory.svg>
 
 Inspired by:
 Gray, Andrew, et al. “Semi-Autonomous Vehicle Control for Road Departure and Obstacle Avoidance.”
